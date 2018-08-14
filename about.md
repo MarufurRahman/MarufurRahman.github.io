@@ -9,4 +9,4 @@ permalink: /about/
 
 ### Contact me
 
-[marufurrahman@gmail.com](mailto:marufurrahman@gmail.com)
+[Email](mailto:marufurrahman1997@gmail.com)
