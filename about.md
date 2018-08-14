@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+আমি মারুফুর রহমান। 
+কম্পিউটার সায়েন্স নিয়ে পড়াশুনা করছি। লিনাক্স ও পাইথন নিয়ে কাজ করি এবং নতুন নতুন টেকনোলজি শিখতে ভালোবাসি।
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marufurrahman@gmail.com](mailto:marufurrahman@gmail.com)
