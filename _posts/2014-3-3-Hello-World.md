@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: আমার সম্পর্কে
 ---
+আসসালামু আলাইকুম!
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+আমি মারুফুর রহমান। কম্পিউটার সায়েন্স নিয়ে পড়াশুনা করছি। লিনাক্স ও পাইথন নিয়ে কাজ করি এবং নতুন নতুন টেকনোলজি শিখতে ভালোবাসি।
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+গিটহাবে আমি – https://github.com/MarufurRahman
