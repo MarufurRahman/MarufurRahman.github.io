@@ -10,7 +10,7 @@ How to join?
 
 What is Hacktoberfest?
 1. Read this - [What is Hacktoberfest?](https://www.linkedin.com/pulse/what-hacktoberfest-dilum-de-silva)
-2. Watch this - [What is Hacktoberfest?]https://www.youtube.com/watch?v=F77rVABPsx4&t=28s)
+2. Watch this - [What is Hacktoberfest?](https://www.youtube.com/watch?v=F77rVABPsx4&t=28s)
 
 How to contribute to a project?
 1. Watch this - [#OneDevMinute](https://www.youtube.com/watch?v=MnCfVxSw3ak)
